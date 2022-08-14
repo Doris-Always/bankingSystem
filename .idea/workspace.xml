@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12120391-67e3-4401-82ff-e2dc657367b6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CVYebnbJWyDw6BLxkr1e64HzIt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/DELL/IdeaProjects/bankingSystem/src/myBank",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="myBank" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BankTest.testThatACustomerCan_WithdrawFromAccount">
+    <configuration name="BankTest.testThatACustomerCanCheckBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myBank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myBank" />
+      <option name="MAIN_CLASS_NAME" value="myBank.BankTest" />
+      <option name="METHOD_NAME" value="testThatACustomerCanCheckBalance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testThatACustomerCanDepositMoney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myBank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myBank" />
+      <option name="MAIN_CLASS_NAME" value="myBank.BankTest" />
+      <option name="METHOD_NAME" value="testThatACustomerCanDepositMoney" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testThatACustomerCan_WithdrawFromAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myBank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myBank" />
+      <option name="MAIN_CLASS_NAME" value="myBank.BankTest" />
+      <option name="METHOD_NAME" value="testThatACustomerCan_WithdrawFromAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testThatICanCreateAccount_FindAccountByAccountNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myBank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myBank" />
+      <option name="MAIN_CLASS_NAME" value="myBank.BankTest" />
+      <option name="METHOD_NAME" value="testThatICanCreateAccount_FindAccountByAccountNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testThatICanOpenAnAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myBank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myBank" />
+      <option name="MAIN_CLASS_NAME" value="myBank.BankTest" />
+      <option name="METHOD_NAME" value="testThatICanOpenAnAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankTest.testThatACustomerCan_WithdrawFromAccount" />
+        <item itemvalue="JUnit.BankTest.testThatACustomerCanCheckBalance" />
+        <item itemvalue="JUnit.BankTest.testThatACustomerCanDepositMoney" />
+        <item itemvalue="JUnit.BankTest.testThatICanCreateAccount_FindAccountByAccountNumber" />
+        <item itemvalue="JUnit.BankTest.testThatICanOpenAnAccount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12120391-67e3-4401-82ff-e2dc657367b6" name="Changes" comment="" />
+      <created>1658889323394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658889323394</updated>
+      <workItem from="1658889325627" duration="36063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/myBank/TheAccountTest.java</url>
+          <line>40</line>
+          <properties class="myBank.TheAccountTest" method="testThatIcannotDepositNegativeMoney">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
